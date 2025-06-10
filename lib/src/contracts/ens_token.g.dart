@@ -1,6 +1,6 @@
 // Generated code, do not modify. Run `build_runner build` to re-generate!
 // @dart=2.12
-import 'package:web3dart/web3dart.dart' as _i1;
+import 'package:web3dart_avacus/web3dart_avacus.dart' as _i1;
 import 'dart:typed_data' as _i2;
 
 final _contractAbi = _i1.ContractAbi.fromJson(
